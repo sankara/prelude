@@ -33,3 +33,5 @@
 (setq web-mode-css-indent-offset 2) ; web-mode, css in html file
 (setq web-mode-code-indent-offset 2) ; web-mode, js code in html file
 (setq css-indent-offset 2) ; css-mode
+(setq prelude-flyspell "true")
+(setq erc-spelling-dictionaries '(("#emacs" "british")))
